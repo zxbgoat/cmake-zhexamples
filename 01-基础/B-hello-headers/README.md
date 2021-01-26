@@ -16,9 +16,9 @@ B-hello-headers$ tree
 其中：
 
 - `CMakeLists.txt`：包含即将运行的cmake命令；
-- `src/Hello.h`：要包含的头文件；
+- `include/Hello.h`：要包含的头文件；
 - `src/Hello.cpp`：要编译的源码；
-- `main.cpp`：包含`main`的源码。
+- `src/main.cpp`：包含`main`的源码。
 
 
 
